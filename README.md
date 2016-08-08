@@ -1,0 +1,2 @@
+# bash
+include .bashrc file
